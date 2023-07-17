@@ -14,8 +14,7 @@ In this repo, based on previous studies on split learning, this learning method 
 
 ### 2. Hyperparameter Setting
 The current Epoch is set to 10, User 3, Batch size 5, and num_worker 8.
-If you increase the number of users, you can increase the number of learning datasets, but due to GPU problems, not
-recommended
+If you increase the number of users, you can increase the number of learning datasets
 
 ### 3. Run the application
 First, run the entire Server Side code.
