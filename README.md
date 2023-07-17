@@ -2,6 +2,7 @@
 
 ## Overview
 Due to the perception of data privacy and the increase in individual capacity of data, it is increasingly necessary to achieve learning without sharing data held by clients with servers. And the methodology includes federated learning and split learning, which learn all or part of it inside the client. 
+
 In this repo, based on previous studies on split learning, this learning method was applied to an MRI data brain age prediction algorithm using 3D CNN. In conclusion, the following model was lower than the results of learning in a general way, but it was confirmed that there was a possibility of overcoming it through data augmentation or algorithm improvement.
 
 ## How to Use
